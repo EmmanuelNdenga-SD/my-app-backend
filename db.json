@@ -1,4 +1,12 @@
 {
-    "members": []
+  "members": [
+    {
+      "id": 1,
+      "name": "John Okello",
+      "phone": "254712345678",
+      "email": "johnokello123@gmail.com",
+      "hasPaid": true,
+      "paymentDate": "2023-06-15"
+    }
+  ]
 }
-  
